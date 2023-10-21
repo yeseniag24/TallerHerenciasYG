@@ -13,5 +13,7 @@ public class Celular {
     public int getSerial() {
         return serial;
     }
-    public String getMarca(){return marca;}
+    public String getMarca(){
+        return marca;
+    }
 }
